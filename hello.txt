@@ -1,1 +1,1 @@
-Hello from the other side Artifactory and Sonar
+Hello from the this side and not the other side Artifactory and Sonar
